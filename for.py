@@ -1,3 +1,4 @@
+#for -> while,while->for not possible
 #for loop print in the same line
 # n=int(input("enter:"))
 # for i in range(n):
