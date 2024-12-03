@@ -88,3 +88,10 @@
 #         print(j,end=" ")
 #     print()    
      
+#to print a char in the triangle
+# char=65
+# for i in range(1,5):
+#         for j in range(1,i+1):
+#                 print(char(char),end=" ")
+#                 char+=1
+#         print()
